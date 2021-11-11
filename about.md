@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: "About"
 permalink: /https://RachelDowell.github.io/about/
 ---
 
