@@ -1,12 +1,8 @@
----
 layout: page
 title: "About"
 permalink: /https://RachelDowell.github.io/about/
----
 
 ## About Rachel Dowell
-
-![Rock Climbing Photo](RachelDowell.github.io/pictures/RDowell_Rock_Climbing.jpg)
 
 Hey folks! I was only six years old when I first was exposed to the wonders of programming. My parents introduced me to Scratch, a visual programming language designed for children. 
 I remember not quite being able to wrap my mind around the fact that I, a mere human, could compel the computer to follow my commands. 
