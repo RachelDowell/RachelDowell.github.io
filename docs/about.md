@@ -1,14 +1,6 @@
-layout: page
-title: "About"
-permalink: /https://RachelDowell.github.io/about/
-
 ## About Rachel Dowell
 
-Here's the picture:
-![Rock Climbing Photo](RachelDowell.github.io/pictures/RDowell_Rock_Climbing.jpg)
-Isn't that cool!
-
-Hey folks! I was only six years old when I first was exposed to the wonders of programming. My parents introduced me to Scratch, a visual programming language designed for children. 
+Hey folks! I was six years old when I first was exposed to the wonders of programming. My parents introduced me to Scratch, a visual programming language designed for children. 
 I remember not quite being able to wrap my mind around the fact that I, a mere human, could compel the computer to follow my commands. 
 Throughout the rest of my childhood, the mediums through which I excercised this mysterious power changed, from Khan Academy Javascript lessons to creating my own pasta-themed platform game in Godot, but the wonder remained.
 Even now, as I have nearly finished my degree in Computer Science, I still find myself in awe of the power and versatility of computing. 
