@@ -1,6 +1,6 @@
 ## Rachel Dowell
 
-<img src="RachelDowell.github.io/docs/assets/images/DowellHeadshot.jpg" width="100.8" height="156.5" />
+<img src="./assets/images/DowellHeadshot.jpg" width="100.8" height="156.5" />
 
 [About Me](https://racheldowell.github.io/about)
 
