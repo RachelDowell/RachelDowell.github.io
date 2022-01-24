@@ -18,6 +18,13 @@ I'm Rachel, a Spring 2022 Computer Science Graduate who likes developing streaml
 As President of the University of Florida's VR/AR Club this year, I've been busy working with my fellow officers to foster a community excited about these technologies.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D2obOlpb0CU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br></br>
+
+<h4>University of Florida Game-based Learning and Digital Experiences (GLaDE) Lab</h4>
+For the Spring and Summer semesters of 2021, I worked as a member of UF's GLaDE Lab, helping develop an educational VR replica of a heating and cooling plant.
+
+<br></br>
+
 <h4> CoronaCast <a href="https://github.com/amills12/CoronaCast">(Github)</a> </h4>
 In 2020, I worked together with three fellow University of Florida students to create a Covid-19 tracking email subscription service to help users monitor current Covid-19 trends in a chosen area.
 
