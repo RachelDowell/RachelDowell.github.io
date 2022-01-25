@@ -7,10 +7,10 @@
 <h1><p align="center">Rachel Dowell</p></h1>
 
 <p align="center">
-<div class="circular--landscape"> <img src="./assets/images/DowellHeadshot.jpg" /> </div>
+ <img class="circular--square" src="./assets/images/RHeadshot.jpg" />
 </p>
 
-<div class="circular--landscape"> <img src="./assets/images/DowellHeadshot.jpg" /> </div>
+ <img class="circular--square" src="./assets/images/RHeadshot.jpg" />
 
 <div class="circular--portrait"> <img src="./assets/images/DowellHeadshot.jpg" /> </div>
 
