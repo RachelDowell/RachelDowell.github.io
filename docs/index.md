@@ -24,7 +24,9 @@ I'm Rachel, a Spring 2022 Computer Science Graduate who likes developing streaml
 <h2>What I've Been Up To</h2>
 <h4>GatorVR</h4>
 As President of the University of Florida's VR/AR Club this year, I've been busy working with my fellow officers to foster a community excited about these technologies.
+<p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D2obOlpb0CU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ </p>
 
 <br/>
 
