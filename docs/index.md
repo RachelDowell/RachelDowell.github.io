@@ -12,6 +12,8 @@
 
 <div class="circular--landscape"> <img src="./assets/images/DowellHeadshot.jpg" /> </div>
 
+<div class="circular--portrait"> <img src="./assets/images/DowellHeadshot.jpg" /> </div>
+
 
 <h2>
 <p align="center"><a href="https://racheldowell.github.io/about">About Me</a></p>
