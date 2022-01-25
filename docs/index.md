@@ -53,5 +53,7 @@ In 2020, I worked together with three fellow University of Florida students to c
 > 
 > - Scrum development methodologies
 
+Additionally,
+
 
 
