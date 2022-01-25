@@ -1,13 +1,17 @@
+</br>
+</br>
+</br>
+</br>
+</br>
+
 <h1><p align="center">Rachel Dowell</p></h1>
 
 <p align="center">
-<img src="./assets/images/DowellHeadshot.jpg" width="252" height="391.25" />
+ <link rel="stylesheet" href="./style.css">
+<img src="./assets/images/DowellHeadshot.jpg" class="profile" width="252" height="391.25" />
 </p>
 
-<link rel="stylesheet" href="./style.css">
-<body>
-<img src="./assets/images/DowellHeadshot.jpg" class="profile" alt="profile picture">
-</body>
+
 <h2>
 <p align="center"><a href="https://racheldowell.github.io/about">About Me</a></p>
 </h2>
