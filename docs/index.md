@@ -30,6 +30,11 @@ As President of the University of Florida's VR/AR Club this year, I've been busy
 
 <br/>
 
+<p align="center">
+ <link rel="stylesheet" href="./style.css">
+<img src="./assets/images/DowellHeadshot.jpg" class="profile" width="252" height="391.25" />
+</p>
+
 <h4>University of Florida Game-based Learning and Digital Experiences (GLaDE) Lab</h4>
 For the Spring and Summer semesters of 2021, I worked as a member of UF's GLaDE Lab, helping develop an educational VR replica of a heating and cooling plant.
 
