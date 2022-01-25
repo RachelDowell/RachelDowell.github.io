@@ -3,13 +3,4 @@
   margin: 0;
   padding: 0;
 }
-body {
-  height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-.profile {
-  width: 252px;
-  clip-path: circle();
-}
+.circular--portrait { position: relative; width: 200px; height: 200px; overflow: hidden; border-radius: 50%; } .circular--portrait img { width: 100%; height: auto; }
