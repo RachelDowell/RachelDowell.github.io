@@ -10,6 +10,8 @@
 <div class="circular--landscape"> <img src="./assets/images/DowellHeadshot.jpg" /> </div>
 </p>
 
+<div class="circular--landscape"> <img src="./assets/images/DowellHeadshot.jpg" /> </div>
+
 
 <h2>
 <p align="center"><a href="https://racheldowell.github.io/about">About Me</a></p>
@@ -51,7 +53,7 @@ In 2020, I worked together with three fellow University of Florida students to c
 > 
 > - Scrum development methodologies
 
-Additionally,
+Here's the new stuff!
 
 
 
