@@ -5,11 +5,12 @@
 </br>
 
 <h1><p align="center">Rachel Dowell</p></h1>
-
+<body>
 <p align="center">
  <link rel="stylesheet" href="./style.css">
 <img src="./assets/images/DowellHeadshot.jpg" class="profile" width="252" height="391.25" />
 </p>
+ </body>
 
 
 <h2>
